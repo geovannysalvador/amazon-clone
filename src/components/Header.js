@@ -17,6 +17,7 @@ const Header = () => {
             height={70}
             objectFit="contain"
             className="cursor-pointer"
+            alt="img"
           />
           <p className="text-white font-bold text-lg pr-4">Mono Prestige</p>
 
